@@ -5,7 +5,7 @@ I'm a web developer and backend developer based in Thailand, a lot of my open so
 
 Skills: HTML / CSS / JS / PHP / Python / Go / Java / SQL / Dart / C / C#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForestCrazy&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on TPS Marketplace 
 - 🌱 I’m currently learning Python and PHP 
