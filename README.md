@@ -1,11 +1,11 @@
 ### Hi there 👋, I am ForestCrazy
-![](https://github-readme-stats.vercel.app/api?username=forestcrazy&count_private=true&show_icons=true&theme=Gradient)
+![](https://github-readme-stats.vercel.app/api?username=forestcrazy&count_private=true&show_icons=true&theme=synthwave)
 
 I'm a web developer and backend developer based in Thailand, a lot of my open source work is focusing on making web development easier, which is probably why you're here.
 
 Skills: HTML / CSS / JS / PHP / Python / Go / Java / SQL / Dart / C / C#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forestcrazy&show_icon=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forestcrazy)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on TPS Marketplace 
 - 🌱 I’m currently learning Python and PHP 
