@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I am ForestCrazy
+![](https://github-readme-stats.vercel.app/api?username=forestcrazy&count_private=true&show_icons=true&theme=synthwave)
 
-<!--
-**ForestCrazy/ForestCrazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer and backend developer based in Thailand, a lot of my open source work is focusing on making web development easier, which is probably why you're here.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / PHP / Python / Go / Java / SQL / Dart / C / C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on TPS Marketplace 
+- 🌱 I’m currently learning Python and PHP 
+- 🤔 I’m looking for help with React JS 
+- 📫 How to reach me: [Facebook](https://web.facebook.com/profile.php?id=100010520769733 "Facebook") 
+- ⚡ Fun fact: Coding 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ForestCrazy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100010520769733)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fruitytime_th/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13245060)  
+
+![Profile views](https://gpvc.arturio.dev/ForestCrazy)  
