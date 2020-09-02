@@ -6,7 +6,9 @@
 
 <h4>Skills: HTML / CSS / JS / PHP / Python / Go / Java / SQL / Dart / C / C# </h4>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ForestCrazy&theme=synthwave' alt='Top-Lang'>
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ForestCrazy&theme=synthwave' alt='Top-Lang'>
+</div>
 
 <ul>
   <li> 🔭 I’m currently working on TPS Marketplace </li>
