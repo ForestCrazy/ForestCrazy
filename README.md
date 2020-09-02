@@ -1,8 +1,8 @@
 <div align="center">
   <h3> Hi there 👋, I am ForestCrazy </h3>
-</div>
 <img src='https://github-readme-stats.vercel.app/api?username=forestcrazy&count_private=true&show_icons=true&theme=synthwave' alt='git-stats'>
 <p>I'm a web developer and backend developer based in Thailand, a lot of my open source work is focusing on making web development easier, which is probably why you're here.</p>
+</div>
 
 <h4>Skills: HTML / CSS / JS / PHP / Python / Go / Java / SQL / Dart / C / C# </h4>
 
