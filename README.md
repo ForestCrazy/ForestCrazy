@@ -1,7 +1,8 @@
 <div align="center">
   <h3> Hi there 👋, I am ForestCrazy </h3>
 </div>
-![](https://github-readme-stats.vercel.app/api?username=forestcrazy&count_private=true&show_icons=true&theme=synthwave)
+![]()
+[<img src='https://github-readme-stats.vercel.app/api?username=forestcrazy&count_private=true&show_icons=true&theme=synthwave' alt='git-stats' height='30'>](https://github-readme-stats.vercel.app/api?username=forestcrazy&count_private=true&show_icons=true&theme=synthwave)  
 I'm a web developer and backend developer based in Thailand, a lot of my open source work is focusing on making web development easier, which is probably why you're here.
 
 Skills: HTML / CSS / JS / PHP / Python / Go / Java / SQL / Dart / C / C#
