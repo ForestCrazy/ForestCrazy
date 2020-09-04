@@ -19,7 +19,6 @@
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg' alt='dev_to' height='40'>
   </a>
 </div>
-<p>:point_right: I'm a web developer and backend developer based in Thailand, a lot of my open source work is focusing on making web development easier, which is probably why you're here.</p>
 <br>
 <div align="center">
   <h2>:heart: Skills :heart:</h2>
