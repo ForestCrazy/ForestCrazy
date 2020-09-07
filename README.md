@@ -3,7 +3,6 @@
   <b>Web Developer and Backend Developer</b>
   <br>
   <br>
-  <h2>:link: Connect with me :link:</h2>
   <a href="https://github.com/ForestCrazy">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg' alt='github' height='40'>
   </a> &emsp;
