@@ -24,6 +24,7 @@
   <h2>:heart: Language :heart:</h2>
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-html-5-48.png' alt='html5' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-css3-48.png' alt='css3' height='40'>&emsp;
+  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-javascript-48.png' alt='javascript' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-php-48.png' alt='php' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-sql-48.png' alt='sql' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-python-48.png' alt='python' height='40'>&emsp;
@@ -44,10 +45,13 @@
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-graphql-48.png' alt='graphql' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-kotlin-48.png' alt='kotlin' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-nodejs-48.png' alt='nodejs' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-ruby-programming-48.png' alt='ruby' height='40'>&emsp;
+  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-ruby-programming-language-48.png' alt='ruby' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-java-48.png' alt='java' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-dart-48.png' alt='dart' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-flutter-48.png' alt='flutter' height='40'>&emsp;
+  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-raspberry-pi-48.png' alt='raspberry-pi' height='40'>&emsp;
+  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-typescript-48.png' alt='type-script' height='40'>&emsp;
+  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-vue-js-48.png' alt='vue-js' height='40'>&emsp;
 </div>
 <br>
 <div align="center">
@@ -55,6 +59,7 @@
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-visual-studio-48.png' alt='visual-studio' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-visual-studio-code-2019-48.png' alt='visual-studio-code-2019' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-git-48.png' alt='git' height='40'>&emsp;
+  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-kali-linux-48.png' alt='kali-linux' height='40'>&emsp;
 </div>
 <br>
 <div align="center">
