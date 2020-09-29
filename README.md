@@ -60,6 +60,7 @@
   <h2>📈 My Github stats 📈</h2>
   <img src='https://github-readme-stats.vercel.app/api?username=forestcrazy&count_private=true&show_icons=true&theme=synthwave' alt='git-stats'>&emsp;
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ForestCrazy&theme=synthwave' alt='Top-Lang'>
+  <img src='https://github-profile-trophy.vercel.app/?username=forestcrazy' alt='Trophy'>
   <br>
   <br>
   <img src="https://gpvc.arturio.dev/ForestCrazy" alt="Profile views">  
