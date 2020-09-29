@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi there 👋, I am ForestCrazy </h1>
+  <h1> Hi there 👋, I am Toon - aka ForestCrazy </h1>
   <b>Web Developer and Backend Developer</b>
   <br>
   <br>
