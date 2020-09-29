@@ -52,6 +52,7 @@
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-raspberry-pi-48.png' alt='raspberry-pi' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-typescript-48.png' alt='type-script' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-vue-js-48.png' alt='vue-js' height='40'>&emsp;
+  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-sass-48.png' alt='sass' height='40'>&emsp;
 </div>
 <br>
 <div align="center">
@@ -60,6 +61,7 @@
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-visual-studio-code-2019-48.png' alt='visual-studio-code-2019' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-git-48.png' alt='git' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-kali-linux-48.png' alt='kali-linux' height='40'>&emsp;
+  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-console-48.png' alt='console' height='40'>&emsp;
 </div>
 <br>
 <div align="center">
