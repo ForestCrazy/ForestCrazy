@@ -54,6 +54,7 @@
   <h2>🧰 Tools 🧰</h2>
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-visual-studio-48.png' alt='visual-studio' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-visual-studio-code-2019-48.png' alt='visual-studio-code-2019' height='40'>&emsp;
+  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-git-48.png' alt='git' height='40'>&emsp;
 </div>
 <br>
 <div align="center">
