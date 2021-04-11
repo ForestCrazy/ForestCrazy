@@ -1,23 +1,6 @@
 <div align="center">
   <h1> Hi there 👋, I am Toon - aka ForestCrazy </h1>
   <b>Web Developer and Backend Developer</b>
-  <br>
-  <br>
-  <a href="https://github.com/ForestCrazy">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg' alt='github' height='40'>
-  </a> &emsp;
-  <a href="https://www.facebook.com/profile.php?id=100010520769733">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg' alt='facebook' height='40'>
-  </a> &emsp;
-  <a href="https://www.instagram.com/fruitytime_th/">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' alt='instagram' height='40'>
-  </a> &emsp;
-  <a href="https://stackoverflow.com/users/13245060">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg' alt='stackoverflow' height='40'>
-  </a> &emsp;
-  <a href="https://dev.to/forestcrazy">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg' alt='dev_to' height='40'>
-  </a>
 </div>
 <br>
 <div align="center">
