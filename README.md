@@ -14,7 +14,7 @@
 </div>
 <br>
 <div align="center">
-  <h2>⚙️ Frameworks ⚙️</h2>
+  <h2>⚙️ Frameworks And Libraries ⚙️</h2>
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-bootstrap-48.png' alt='bootstrap' height='40'>&emsp;
   <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-react-native-48.png' alt='bootstrap' height='40'>&emsp;
 </div>
