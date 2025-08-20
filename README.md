@@ -5,47 +5,43 @@
 <br>
 <div align="center">
   <h2>:heart: Language :heart:</h2>
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-html-5-48.png' alt='html5' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-css3-48.png' alt='css3' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-javascript-48.png' alt='javascript' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-php-48.png' alt='php' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-sql-48.png' alt='sql' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-python-48.png' alt='python' height='40'>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/html-5--v1.png" alt="html-5--v1"/>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/css3.png" alt="css3"/>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/javascript--v1.png" alt="javascript--v1"/>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo.png" alt="php"/>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/ios-filled/40/sql.png" alt="sql"/>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/fluency/40/node-js.png" alt="node-js"/>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/typescript.png" alt="typescript"/>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/python--v1.png" alt="python--v1"/>&emsp;
 </div>
 <br>
 <div align="center">
   <h2>⚙️ Frameworks And Libraries ⚙️</h2>
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-bootstrap-48.png' alt='bootstrap' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-react-native-48.png' alt='bootstrap' height='40'>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/bootstrap--v2.png" alt="bootstrap--v2"/>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/react-native.png" alt="react-native"/>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/ios/40/expo.png" alt="expo" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/express-js.png" alt="express-js" />&emsp;
 </div>
 <br>
 <div align="center">
   <h2>📖 Currently Learning 📖</h2>
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-c-programming-48.png' alt='c' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-c++-48.png' alt='c++' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-django-48.png' alt='django' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-docker-48.png' alt='docker' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-golang-48.png' alt='golang' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-graphql-48.png' alt='graphql' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-kotlin-48.png' alt='kotlin' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-nodejs-48.png' alt='nodejs' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-ruby-programming-language-48.png' alt='ruby' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-java-48.png' alt='java' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-dart-48.png' alt='dart' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-flutter-48.png' alt='flutter' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-raspberry-pi-48.png' alt='raspberry-pi' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-typescript-48.png' alt='type-script' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-vue-js-48.png' alt='vue-js' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-sass-48.png' alt='sass' height='40'>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/flask.png" alt="flask" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/docker.png" alt="docker" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/golang.png" alt="golang" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/graphql.png" alt="graphql" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/ruby-programming-language.png" alt="ruby" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/java-coffee-cup-logo.png" alt="java" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/sass.png" alt="sass" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/postgreesql.png" alt="postgresql" />&emsp;
 </div>
 <br>
 <div align="center">
   <h2>🧰 Tools 🧰</h2>
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-visual-studio-48.png' alt='visual-studio' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-visual-studio-code-2019-48.png' alt='visual-studio-code-2019' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-git-48.png' alt='git' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-kali-linux-48.png' alt='kali-linux' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-console-48.png' alt='console' height='40'>&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/visual-studio.png" alt="visual-studio" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/visual-studio-code-2019.png" alt="visual-studio-code-2019" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/xcode.png" alt="xcode" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/git.png" alt="git" />&emsp;
+  <img width="40" height="40" src="https://img.icons8.com/color/40/kali-linux.png" alt="kali-linux" />&emsp;
 </div>
 <br>
 <div align="center">
@@ -54,6 +50,5 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ForestCrazy&theme=synthwave' alt='Top-Lang'>
   <img src='https://github-profile-trophy.vercel.app/?username=forestcrazy&row=2&column=3&theme=nord' alt='Trophy'>
   <br>
-  <br>
-  <img src="https://gpvc.arturio.dev/ForestCrazy" alt="Profile views">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forestcrazy&theme=synthwave" alt="streak"/>
 </div>
